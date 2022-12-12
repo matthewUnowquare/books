@@ -1,0 +1,26 @@
+{
+  "books": [{
+    "id": 1,
+    "title": "The Hobbit",
+    "authorId": 1,
+    "description": "Bilbo Baggins is a hobbit who enjoys a comfortable, unambitious life, rarely traveling any farther than his pantry or cellar. But his contentment is disturbed when the wizard Gandalf and a company of dwarves arrive on his doorstep one day to whisk him away on an adventure. They have launched a plot to raid the treasure hoard guarded by Smaug the Magnificent, a large and very dangerous dragon. Bilbo reluctantly joins their quest, unaware that on his journey to the Lonely Mountain he will encounter both a magic ring and a frightening creature known as Gollum.",
+    "isbn": "9780547928227",
+    "price": 29.99,
+    "image": "https://images.cdn2.buscalibre.com/fit-in/360x360/0e/aa/0eaaaa46d3b6dde4d0de19bfc845f2e3.jpg"
+  }, {
+    "id": 2,
+    "title": "The Fellowship of the Ring",
+    "authorId": 1,
+    "description": "The first volume in J.R.R. Tolkien's epic adventure The Lord of the Rings. Bilbo Baggins is a hobbit who enjoys a comfortable, unambitious life, rarely traveling any farther than his pantry or cellar. But his contentment is disturbed when the wizard Gandalf and a company of dwarves arrive on his doorstep one day to whisk him away on an adventure. They have launched a plot to raid the treasure hoard guarded by Smaug the Magnificent, a large and very dangerous dragon. Bilbo reluctantly joins their quest, unaware that on his journey to the Lonely Mountain he will encounter both a magic ring and a frightening creature known as Gollum.",
+    "isbn": "9780547928227",
+    "price": 29.99,
+    "image": "https://upload.wikimedia.org/wikipedia/en/8/8e/The_Fellowship_of_the_Ring_cover.gif"
+  }],
+  "authors": [{
+    "id":1,
+    "name": "J.R.R. Tolkien",
+    "image": "https://i0.wp.com/elanillounico.com/wp-content/uploads/2015/03/JRR-Tolkien15.jpg?resize=723%2C1024&ssl=1",
+    "born": "1892-01-03",
+    "died": "1973-09-02"
+  }]
+}
